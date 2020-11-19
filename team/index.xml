@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teams on AusculTech Dx</title>
+    <link>at-dx.github.io/team/</link>
+    <description>Recent content in Teams on AusculTech Dx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="at-dx.github.io/team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Core Team</title>
+      <link>at-dx.github.io/team/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>at-dx.github.io/team/team/</guid>
+      <description>The team is made of entrepreneurs and inventors who have translated novel technologies from research labs into FDA-cleared products.
+ Raj Shekhar, PhD Founder and CTO Raj Shekhar is an inventor of the StethAid™ technology, who has led its research and development since inception together with CMO Robin Doroshow. Dr. Shekhar is also a principal investigator and a professor of radiology and pediatrics at Children’s National Hospital and George Washington University.</description>
+    </item>
+    
+    <item>
+      <title>Our Mission</title>
+      <link>at-dx.github.io/team/mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>at-dx.github.io/team/mission/</guid>
+      <description>Our goal is to be the leading pediatric cardiopulmonary auscultation platform. By bringing specialist-quality knowledge into primary care offices and homes, our platform empowers providers and parents to give the best care they can.</description>
+    </item>
+    
+  </channel>
+</rss>

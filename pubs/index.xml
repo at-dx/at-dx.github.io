@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pubs on AusculTech Dx</title>
+    <link>at-dx.github.io/pubs/</link>
+    <description>Recent content in Pubs on AusculTech Dx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="at-dx.github.io/pubs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>at-dx.github.io/pubs/pubs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>at-dx.github.io/pubs/pubs/</guid>
+      <description>Automated Identification of Innocent Still’s Murmur in Children Sukryool Kang, Robin Doroshow, James McConnaughey, Raj Shekhar
+A Smartphone Stethoscope and Application for Automated Identification of Innocent Still’s Murmur Titus John, Robin W. Doroshow, Raj Shekhar
+Heart Sound Segmentation toward Automated Heart Murmur Classification in Pediatric Patents Sukryool Kang, Robin Doroshow, James McConnaughey, Ahsan Khandoker, Raj Shekhar</description>
+    </item>
+    
+  </channel>
+</rss>

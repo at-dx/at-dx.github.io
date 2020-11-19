@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on AusculTech Dx</title>
+    <link>at-dx.github.io/news/</link>
+    <description>Recent content in News on AusculTech Dx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="at-dx.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>at-dx.github.io/news/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>at-dx.github.io/news/news/</guid>
+      <description>AusculTech Dx receives STTR Phase I award June 2020 AusculTech Dx received its latest STTR Phase I award from the National Institutes of Health (NIH). This award supports research and development into extending the StethAid™ platform for improved home-based management of childhood asthma.
+ACME-POCT selects AusculTech Dx for a seed grant January 2020 A seed grant from Emory/Georgia Tech/Children’s based Atlanta Center for Microsystems Engineered Point-of-Care Technologies (ACME POCT) is enabling AusculTech Dx to research and develop next-generation StethAid™ technology.</description>
+    </item>
+    
+  </channel>
+</rss>

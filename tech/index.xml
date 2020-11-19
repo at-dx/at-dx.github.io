@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teches on AusculTech Dx</title>
+    <link>at-dx.github.io/tech/</link>
+    <description>Recent content in Teches on AusculTech Dx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="at-dx.github.io/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technology</title>
+      <link>at-dx.github.io/tech/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>at-dx.github.io/tech/tech/</guid>
+      <description>AusculTech Dx is a Children’s National Hospital spin-off commercializing auscultation-analysis research.
+ What is auscultation? Auscultation is the act (or process) of listening to the heart, lung, and other body sounds using a stethoscope as part of a medical exam.
+Meet StethAidTM StethAidTM is our digital stethoscope, which along with the mobile app and web dashboard, form our smart digital auscultation platform.
+ Streamlined Care StethAidTM brings intelligent heart murmur identification from specialist offices to primary care offices.</description>
+    </item>
+    
+  </channel>
+</rss>

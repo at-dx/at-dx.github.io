@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AusculTech Dx</title>
+    <link>at-dx.github.io/</link>
+    <description>Recent content on AusculTech Dx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="at-dx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy</title>
+      <link>at-dx.github.io/privacy/privacy/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>at-dx.github.io/privacy/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Careers</title>
+      <link>at-dx.github.io/careers/careers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>at-dx.github.io/careers/careers/</guid>
+      <description>AusculTech Dx is a young, vibrant Digital Health startup rooted in deep science and committed to bringing innovative technology to pediatric medicine.
+We have open positions for entrepreneurial engineers who share our values and goals of transforming medicine with novel technology.
+If that&amp;rsquo;s you, please get in touch!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>at-dx.github.io/contact/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>at-dx.github.io/contact/contact/</guid>
+      <description>If you want to set up an on-site evaluation or request more info, send us an email at contact@auscultechdx.com
+We&amp;rsquo;d love to hear from you!</description>
+    </item>
+    
+    <item>
+      <title>Core Team</title>
+      <link>at-dx.github.io/team/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>at-dx.github.io/team/team/</guid>
+      <description>The team is made of entrepreneurs and inventors who have translated novel technologies from research labs into FDA-cleared products.
+ Raj Shekhar, PhD Founder and CTO Raj Shekhar is an inventor of the StethAid™ technology, who has led its research and development since inception together with CMO Robin Doroshow. Dr. Shekhar is also a principal investigator and a professor of radiology and pediatrics at Children’s National Hospital and George Washington University.</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>at-dx.github.io/blog/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>at-dx.github.io/blog/first/</guid>
+      <description>My super sweet first blog post!!</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>at-dx.github.io/news/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>at-dx.github.io/news/news/</guid>
+      <description>AusculTech Dx receives STTR Phase I award June 2020 AusculTech Dx received its latest STTR Phase I award from the National Institutes of Health (NIH). This award supports research and development into extending the StethAid™ platform for improved home-based management of childhood asthma.
+ACME-POCT selects AusculTech Dx for a seed grant January 2020 A seed grant from Emory/Georgia Tech/Children’s based Atlanta Center for Microsystems Engineered Point-of-Care Technologies (ACME POCT) is enabling AusculTech Dx to research and develop next-generation StethAid™ technology.</description>
+    </item>
+    
+    <item>
+      <title>Our Mission</title>
+      <link>at-dx.github.io/team/mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>at-dx.github.io/team/mission/</guid>
+      <description>Our goal is to be the leading pediatric cardiopulmonary auscultation platform. By bringing specialist-quality knowledge into primary care offices and homes, our platform empowers providers and parents to give the best care they can.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>at-dx.github.io/pubs/pubs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>at-dx.github.io/pubs/pubs/</guid>
+      <description>Automated Identification of Innocent Still’s Murmur in Children Sukryool Kang, Robin Doroshow, James McConnaughey, Raj Shekhar
+A Smartphone Stethoscope and Application for Automated Identification of Innocent Still’s Murmur Titus John, Robin W. Doroshow, Raj Shekhar
+Heart Sound Segmentation toward Automated Heart Murmur Classification in Pediatric Patents Sukryool Kang, Robin Doroshow, James McConnaughey, Ahsan Khandoker, Raj Shekhar</description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>at-dx.github.io/tech/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>at-dx.github.io/tech/tech/</guid>
+      <description>AusculTech Dx is a Children’s National Hospital spin-off commercializing auscultation-analysis research.
+ What is auscultation? Auscultation is the act (or process) of listening to the heart, lung, and other body sounds using a stethoscope as part of a medical exam.
+Meet StethAidTM StethAidTM is our digital stethoscope, which along with the mobile app and web dashboard, form our smart digital auscultation platform.
+ Streamlined Care StethAidTM brings intelligent heart murmur identification from specialist offices to primary care offices.</description>
+    </item>
+    
+  </channel>
+</rss>
